@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">3.15homework</string>
+    <string name="email">電子信箱:</string>
+    <string name="password">密碼:</string>
+    <string name="email_input"></string>
+    <string name="password_input"></string>
+    <string name="login">登入</string>
+    <string name="output_email"></string>
+    <string name="output_password"></string>
+</resources>
